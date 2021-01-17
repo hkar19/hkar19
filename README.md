@@ -1,5 +1,5 @@
 # Hi there 👋 i am Hadi
-I am a front-end engineer at [datacakra](https://datacakra.com/about/) mainly working with React and React Native
+I am a front-end engineer at [datacakra](https://datacakra.com) mainly working with React and React Native
 
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkar19&show_icons=true" alt="hkar19" />
