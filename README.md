@@ -1,6 +1,10 @@
 # Hi there 👋 i am Hadi
 I am a front-end engineer at [datacakra](https://datacakra.com) mainly working with React and React Native
 
+You can reach me here:
+- <img src= "https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" height="15" width="15"/> [LinkedIn](https://www.linkedin.com/in/hkar19/)
+- <img src= "https://cdn.jsdelivr.net/npm/simple-icons@4/icons/gmail.svg" height="15" width="15"/> [Email](mailto:hadikurniawanar@gmail.com)
+
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkar19&show_icons=true" alt="hkar19" />
 </p>
