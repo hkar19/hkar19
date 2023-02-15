@@ -1,4 +1,4 @@
-# Hadi Kurniawan AR
+# Hadi KAR
 Engineer (Front-end) at [datacakra](https://datacakra.com).
 
 You can reach me via [LinkedIn](https://www.linkedin.com/in/hkar19/) or by [Email](mailto:hadi@datacakra.com).
