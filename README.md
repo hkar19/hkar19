@@ -1,13 +1,7 @@
-# Hi there 👋 i am Hadi
-I am a front-end engineer at [datacakra](https://datacakra.com) mainly working with React and React Native
+# Hadi Kurniawan AR
+Engineer (Front-end) at [datacakra](https://datacakra.com).
 
-You can reach me here:
-- <img src= "https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" height="15" width="15"/> [LinkedIn](https://www.linkedin.com/in/hkar19/)
-- <img src= "https://cdn.jsdelivr.net/npm/simple-icons@4/icons/gmail.svg" height="15" width="15"/> [Email](mailto:hadi@datacakra.com)
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hkar19&show_icons=true" alt="hkar19" />
-</p>
+You can reach me via [LinkedIn](https://www.linkedin.com/in/hkar19/) or by [Email](mailto:hadi@datacakra.com).
 
 <!--
 **hkar19/hkar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
